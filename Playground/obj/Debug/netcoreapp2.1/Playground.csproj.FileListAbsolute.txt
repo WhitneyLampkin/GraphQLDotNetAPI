@@ -1,0 +1,14 @@
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\obj\Debug\netcoreapp2.1\Playground.csproj.CoreCompileInputs.cache
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\obj\Debug\netcoreapp2.1\Playground.AssemblyInfoInputs.cache
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\obj\Debug\netcoreapp2.1\Playground.AssemblyInfo.cs
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\bin\Debug\netcoreapp2.1\Playground.deps.json
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\bin\Debug\netcoreapp2.1\Playground.runtimeconfig.json
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\bin\Debug\netcoreapp2.1\Playground.runtimeconfig.dev.json
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\bin\Debug\netcoreapp2.1\Playground.dll
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\obj\Debug\netcoreapp2.1\Playground.csprojAssemblyReference.cache
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\obj\Debug\netcoreapp2.1\Playground.RazorAssemblyInfo.cache
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\obj\Debug\netcoreapp2.1\Playground.RazorAssemblyInfo.cs
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\obj\Debug\netcoreapp2.1\Playground.RazorTargetAssemblyInfo.cache
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\bin\Debug\netcoreapp2.1\Playground.pdb
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\obj\Debug\netcoreapp2.1\Playground.dll
+C:\Users\Miss Whitney\Desktop\Apps\Playground\Playground\obj\Debug\netcoreapp2.1\Playground.pdb
